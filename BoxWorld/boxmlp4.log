@@ -1,0 +1,30 @@
+2020-02-25 20:48:12,509 - tensorflow - WARNING - From C:\ProgramData\Anaconda3\lib\site-packages\stable_baselines\common\tf_util.py:57: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-02-25 20:48:12,510 - tensorflow - WARNING - From C:\ProgramData\Anaconda3\lib\site-packages\stable_baselines\common\tf_util.py:66: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-02-25 20:48:13,149 - tensorflow - WARNING - From C:\ProgramData\Anaconda3\lib\site-packages\stable_baselines\common\policies.py:115: The name tf.variable_scope is deprecated. Please use tf.compat.v1.variable_scope instead.
+
+2020-02-25 20:48:13,150 - tensorflow - WARNING - From C:\ProgramData\Anaconda3\lib\site-packages\stable_baselines\common\input.py:25: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-02-25 20:48:13,539 - tensorflow - WARNING - From C:\ProgramData\Anaconda3\lib\site-packages\stable_baselines\a2c\a2c.py:140: The name tf.summary.scalar is deprecated. Please use tf.compat.v1.summary.scalar instead.
+
+2020-02-25 20:48:13,764 - tensorflow - WARNING - From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow\python\ops\clip_ops.py:286: add_dispatch_support.<locals>.wrapper (from tensorflow.python.ops.array_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+Use tf.where in 2.0, which has the same broadcast rule as np.where
+2020-02-25 20:48:13,783 - tensorflow - WARNING - From C:\ProgramData\Anaconda3\lib\site-packages\stable_baselines\a2c\a2c.py:164: The name tf.train.RMSPropOptimizer is deprecated. Please use tf.compat.v1.train.RMSPropOptimizer instead.
+
+2020-02-25 20:48:13,785 - tensorflow - WARNING - From C:\ProgramData\Anaconda3\lib\site-packages\tensorflow\python\training\rmsprop.py:119: calling Ones.__init__ (from tensorflow.python.ops.init_ops) with dtype is deprecated and will be removed in a future version.
+Instructions for updating:
+Call initializer instance with the dtype argument instead of passing it to the constructor
+2020-02-25 20:48:14,029 - tensorflow - WARNING - From C:\ProgramData\Anaconda3\lib\site-packages\stable_baselines\a2c\a2c.py:176: The name tf.summary.merge_all is deprecated. Please use tf.compat.v1.summary.merge_all instead.
+
+2020-02-25 20:48:16,326 - root - INFO - 1                                  ,0.00
+2020-02-25 20:48:16,676 - root - INFO - 2                                  ,0.00
+2020-02-25 20:48:17,027 - root - INFO - 3                                  ,0.00
+2020-02-25 20:48:17,376 - root - INFO - 4                                  ,0.00
+2020-02-25 20:48:17,726 - root - INFO - 5                                  ,0.00
+2020-02-25 20:48:18,077 - root - INFO - 6                                  ,0.00
+2020-02-25 20:48:18,427 - root - INFO - 7                                  ,0.00
+2020-02-25 20:48:18,777 - root - INFO - 8                                  ,0.00
+2020-02-25 20:48:19,129 - root - INFO - 9                                  ,0.00
+2020-02-25 20:48:19,479 - root - INFO - 10                                  ,0.00
