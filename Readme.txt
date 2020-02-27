@@ -1,4 +1,4 @@
-Each experiment has their own readme file with the instruction to run that experiment
+For each experiment there is a corresponding folder including a readme file with the instruction to run that experiment.
 
 Everything has been tested on Tensorflow 1.15 and python 3.6
 
